@@ -1,3 +1,3 @@
 # sdl_animation
 
-repository collecting animations done with SDL2
+repository collecting graphics/animations done with SDL2
